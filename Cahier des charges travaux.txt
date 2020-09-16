@@ -1,0 +1,46 @@
+Cahier des charges travaux au 16/09:
+
+Sol :
+	Pose de parquet dans Pièce principale 12m²
+	Pose de parquet dans Remise 3m²
+	Pose de carrellage dans SDB 3m²
+
+Plafond :
+	Pose lumière + interrupteurs dans Remise
+		Ou va l'interrupteur
+	Pose lumière + interrupteur dans SDB
+		Ou va l'interrupteur
+	Décallage lumière pièce principale vers le nouveau centre
+		Interrupteur pas sur le plan
+		
+Murs :
+	Pose de cloisons pour séparer le garage en 3 pièces
+	
+Portes :
+	Pose porte batante entre Pièce principale - Remise
+	Pose porte collombage entre Pièce principale - SDB
+
+Remise :
+	Tirer deux prises
+
+SDB :
+Présent : 
+	1 Arrivée eau chaud + froid	
+	1 évacuation en 40
+Requis :
+	Dédoublement arrivée eau x 2
+	Dédoublement sortie en 40 x2
+	Pose toilettre avec sanibroyeur
+	Pose bac de douche + cloison de douche
+	Pose petit meuble lave main
+	Crée prises eletriques
+	Poser sèche serviette electrique
+	
+Pièce principale :
+	Ajouter prises
+	
+Peinture :
+	Sur les 3 pièces, 1 sous couche + 2 couches peinture
+	
+A concevoir :
+	Système pour cacher le compteur éléctrique
