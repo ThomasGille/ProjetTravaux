@@ -55,3 +55,4 @@ Requis
 	
 ## A concevoir
 - [ ] Système pour cacher le compteur éléctrique (voir ##Murs)
+![Mur tableau électrique](/tableau%20electrique.jpeg)
